@@ -10,7 +10,7 @@ function Navbar() {
           <div className="flex items-center gap-4">
             <Link to="/Navbar.js">
               <img
-                src="../../public/img/unsplashLogo.svg"
+                src="./public/img/unsplashLogo.svg"
                 alt="unsplashLogo"
                 width="32px"
               />
